@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen
+{  body {
+    font-family: "Microsoft JhengHei", "微軟正黑體", "Heiti TC", "黑體-繁",'Arial', sans-serif;}
+    table {
+        font-size: 1.4vw;
+    }
+    th.th_f {
+        width: 2%;
+        background-color: #cc9933;
+        color: white;}
+    th.th_n {
+        width: 14%;
+        background-color: #cc9933;
+        color: white;}
+}    
