@@ -2,16 +2,17 @@
 /* CSS Document */
 @media only screen
 {  body {
-    font-family: "Microsoft JhengHei", "微軟正黑體", "Heiti TC", "黑體-繁",'Arial', sans-serif;}
-    table {
-        font-size: 1.4vw;
+    font-family: "Microsoft JhengHei", "微軟正黑體", "Heiti TC", "黑體-繁",'Arial', sans-serif;
+    font-size: 1.4vw;}
+    p {
+        margin: 0.25em auto;
+    }
+    th {
+        background-color: #cc9933;
+        color: white;        
     }
     th.th_f {
-        width: 2%;
-        background-color: #cc9933;
-        color: white;}
+        width: 2%;}
     th.th_n {
-        width: 14%;
-        background-color: #cc9933;
-        color: white;}
+        width: 14%;}
 }    
